@@ -82,8 +82,6 @@ PRODUCT_PACKAGES += \
 # Optional Mahdi packages
 PRODUCT_PACKAGES += \
     Apollo \
-    libcyanogen-dsp \
-    DSPManager \
     libemoji \
     LockClock \
     MahdiCenter \
