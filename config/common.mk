@@ -84,7 +84,6 @@ PRODUCT_PACKAGES += \
     Apollo \
     libemoji \
     LockClock \
-    MahdiCenter \
     MahdiSetupWizard \
     ScreenRecorder \
     Trebuchet \
